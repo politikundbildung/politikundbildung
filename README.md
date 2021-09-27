@@ -1,6 +1,6 @@
 Skriptsammlung, hauptsächlich R. 
 
-Kontakt unter www.politikunbildung.de
+Kontakt unter www.politikundbildung.de
 
 <!---
 politikundbildung/politikundbildung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
