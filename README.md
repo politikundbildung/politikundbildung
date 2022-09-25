@@ -1,4 +1,4 @@
-Skriptsammlung, hauptsächlich R. 
+
 
 Kontakt unter www.politikundbildung.de
 
